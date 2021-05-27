@@ -1,3 +1,7 @@
 #navbar, #banda .card-header, #banda .card-footer{
     background-color: #ffc107 !important;
 }
+
+#sucesso{
+    background-color:#212529;
+}
