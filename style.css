@@ -5,3 +5,14 @@
 #sucesso{
     background-color:#212529;
 }
+
+#memoria{
+    background-color: #138044;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+}
+
+p b{
+    color: #ffc107;
+}
